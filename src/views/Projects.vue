@@ -1,6 +1,12 @@
 <template>
   <div class="container">
     <div class="row my-5">
+      <div class="col-md-12">
+        <h3>My projects</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia placeat eaque voluptates quos, dolorum temporibus consequuntur aliquam suscipit vero impedit culpa, quae ratione architecto blanditiis id eius quo? Itaque, quasi?</p>
+      </div>
+    </div>
+    <div class="row my-5">
       <div
         class="col-md-4"
         v-for="(element, index) in projects"
@@ -22,6 +28,9 @@ export default {
   data: () => ({
     projects: projectsData,
   }),
+   created() {
+    document.title="Projects | Sonakshi Portfolio"
+  }
 };
 </script>
 

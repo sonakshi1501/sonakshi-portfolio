@@ -1,9 +1,9 @@
 <template>
   <div class="container-fluid">
     <div class="row">
-      <div class="col-md-12 text-center" style="background:blue">
+      <div class="col-md-12">
         <hr>
-        <h5 class="mybottom">Made by Sonakshi</h5>
+        <p>Made by Sonakshi</p>
       </div>
     </div>
   </div>
