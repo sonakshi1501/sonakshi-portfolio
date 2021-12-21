@@ -16,6 +16,9 @@
           <router-link class="nav-link " aria-current="page" to="/projects">Projects</router-link>
         </li>
         <li class="nav-item">
+          <router-link class="nav-link " aria-current="page" to="/talks">Talks</router-link>
+        </li>
+        <li class="nav-item">
           <router-link class="nav-link " aria-current="page" to="/about">About</router-link>
         </li>
         
