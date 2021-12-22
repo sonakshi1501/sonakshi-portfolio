@@ -1,75 +1,99 @@
 [
     {
-        "talkTitle":"Action On Google",
-        "communityName":"GDG Jalandhar",
-        "date": "Jan 23, 2018",
-        "techStack": ["Action On Google", "Google Assistant"]
+        "talkTitle":"The Art of AR",
+        "communityName":"WTM Jalandhar",
+        "date": "May 2, 2020",
+        "techStack": ["AR","Google 3D animal"]
     },
     {
-        "talkTitle":"Action On Google",
+        "talkTitle":"UX & Product engineering like a Pro",
         "communityName":"GDG Jalandhar",
-        "date": "Jan 23, 2018",
-        "techStack": ["Action On Google", "Google Assistant"]
+        "date": "Apr 18, 2020",
+        "techStack": ["A/B Testing", " UX Beyond Colors ", " Design", "Animations","Design thinking","Inclusive design patterns"]
     },
     {
-        "talkTitle":"Action On Google",
-        "communityName":"GDG Jalandhar",
-        "date": "Jan 23, 2018",
-        "techStack": ["Action On Google", "Google Assistant"]
+        "talkTitle":"IWD Jalandhar 2019",
+        "communityName":"WTM Jalandhar",
+        "date": "Mar 31, 2019",
+        "techStack": ["Google Cloud Platform","I'm Remarkable Workshop"]
     },
     {
-        "talkTitle":"Action On Google",
+        "talkTitle":"Build with Angular",
         "communityName":"GDG Jalandhar",
-        "date": "Jan 23, 2018",
-        "techStack": ["Action On Google", "Google Assistant"]
+        "date": "Feb 23 - 24, 2019",
+        "techStack": ["JavaScript", "TypeScript Essentials", " Building Blocks of an Angular Application", "Building a single page app","Brainstorming Session and unlocking Industry Secrets","Basics of Client Server application architecture"]
     },
     {
-        "talkTitle":"Action On Google",
+        "talkTitle":"GDG DevFest'18 Jalandhar",
         "communityName":"GDG Jalandhar",
-        "date": "Jan 23, 2018",
-        "techStack": ["Action On Google", "Google Assistant"]
+        "date": "Oct 20 - 21, 2018",
+        "techStack": ["TensorFlow for JavaScript", " AMP", "PWA","Material Design","Build a reactive mobile app with Flutter"]
     },
     {
-        "talkTitle":"Action On Google",
+        "talkTitle":"Next'18 Extended Jalandhar",
         "communityName":"GDG Jalandhar",
-        "date": "Jan 23, 2018",
-        "techStack": ["Action On Google", "Google Assistant"]
+        "date": "Sep 15, 2018",
+        "techStack": ["GSuit", "Cloud Auto ML","Google App Engine","Google Cloud Certification","Machine Learning with GCP"]
     },
     {
-        "talkTitle":"Action On Google",
+        "talkTitle":"Google IO Extended'18",
         "communityName":"GDG Jalandhar",
-        "date": "Jan 23, 2018",
-        "techStack": ["Action On Google", "Google Assistant"]
+        "date": "Jun 9, 2018",
+        "techStack": ["Build Web app with Firebase", "Google Assistant"]
     },
     {
-        "talkTitle":"Action On Google",
+        "talkTitle":"Build Actions for your Community",
         "communityName":"GDG Jalandhar",
-        "date": "Jan 23, 2018",
-        "techStack": ["Action On Google", "Google Assistant"]
+        "date": "Apr 15, 2018",
+        "techStack": ["Action On Google", "Making web faster with PWA","Daydreams and Google Maps","Getting started with Flutter"]
     },
     {
-        "talkTitle":"Action On Google",
+        "talkTitle":"TensorFlow DevSummit Extended",
         "communityName":"GDG Jalandhar",
-        "date": "Jan 23, 2018",
-        "techStack": ["Action On Google", "Google Assistant"]
+        "date": "Apr 7, 2018",
+        "techStack": ["ML with GCP", "ML with GCP"]
     },
     {
-        "talkTitle":"Action On Google",
+        "talkTitle":"IWD 18 | GDG - WTM Jalandhar",
         "communityName":"GDG Jalandhar",
-        "date": "Jan 23, 2018",
-        "techStack": ["Action On Google", "Google Assistant"]
+        "date": "Mar 17, 2018",
+        "techStack": ["Google Assistant", "Firebase"]
     },
     {
-        "talkTitle":"Action On Google",
+        "talkTitle":"Cloud Study Jam",
         "communityName":"GDG Jalandhar",
-        "date": "Jan 23, 2018",
-        "techStack": ["Action On Google", "Google Assistant"]
+        "date": "Feb 17, 2018",
+        "techStack": ["Big Data", "Google Cloud Platform"]
     },
     {
-        "talkTitle":"Action On Google",
+        "talkTitle":"GDD India 2017 Extended Jalandhar",
         "communityName":"GDG Jalandhar",
-        "date": "Jan 23, 2018",
-        "techStack": ["Action On Google", "Google Assistant"]
+        "date": "Feb 3, 2018",
+        "techStack": ["Intro to Android Things", " PWA", "AMP", "SW"]
+    },
+    {
+        "talkTitle":"GDG-WTM Jalandhar Meetup November 2017",
+        "communityName":"GDG Jalandhar",
+        "date": "Nov 18, 2017",
+        "techStack": ["Celebrated women leading contributions"]
+    },
+    {
+        "talkTitle":"GDG DevFest 2017",
+        "communityName":"GDG Jalandhar",
+        "date": "Nov 5, 2017",
+        "techStack": ["Machine Learning", "Tensorflow", "Firebase","FireStore","AMP","PWA","Kotlin (Code-Labs)"]
+    },
+    {
+        "talkTitle":"GDG Jalandhar RoadShow",
+        "communityName":"GDG Jalandhar",
+        "date": "Oct 14, 2017",
+        "techStack": [" Firebase","PWA ", "Google Cloud platforms","Machine Learning","Tensor Flow"]
+    },
+    {
+        "talkTitle":"May GDG Meetup",
+        "communityName":"GDG Jalandhar",
+        "date": "May 2, 2017",
+        "techStack": ["Google Cloud platforms","Cast API"," Maps API","YouTube API"]
     }
 
 ]
