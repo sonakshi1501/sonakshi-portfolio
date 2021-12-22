@@ -1,52 +1,42 @@
- [
-     { 
-        "name": "Projects1",
-        "desc": "Some quick example text to build on the card title and make up the bulk of the card content.",
-        "link": "https://vrijraj.xyz/"
-     },
-     { 
-        "name": "Projects2",
-        "desc": "Some quick example text to build on the card title and make up the bulk of the card content.",
-        "link": "https://vrijraj.xyz/"
-     },
-     { 
-        "name": "Projects3",
-        "desc": "Some quick example text to build on the card title and make up the bulk of the card content.",
-        "link": "https://vrijraj.xyz/"
-     },
-     { 
-        "name": "Projects4",
-        "desc": "Some quick example text to build on the card title and make up the bulk of the card content.",
-        "link": "https://vrijraj.xyz/"
-     },
-     { 
-        "name": "Projects5",
-        "desc": "Some quick example text to build on the card title and make up the bulk of the card content.",
-        "link": "https://vrijraj.xyz/"
-     },
-     { 
-        "name": "Projects6",
-        "desc": "Some quick example text to build on the card title and make up the bulk of the card content.",
-        "link": "https://vrijraj.xyz/"
-     },
-     { 
-        "name": "Projects7",
-        "desc": "Some quick example text to build on the card title and make up the bulk of the card content.",
-        "link": "https://vrijraj.xyz/"
-     },
-     { 
-        "name": "Projects8",
-        "desc": "Some quick example text to build on the card title and make up the bulk of the card content.",
-        "link": "https://vrijraj.xyz/"
-     },
-     { 
-        "name": "Projects9",
-        "desc": "Some quick example text to build on the card title and make up the bulk of the card content.",
-        "link": "https://vrijraj.xyz/"
-     },
-     { 
-        "name": "Projects10",
-        "desc": "Some quick example text to build on the card title and make up the bulk of the card content.",
-        "link": "https://vrijraj.xyz/"
-     }
- ]
+[
+   {
+      "name": "Weather Forecast",
+      "desc": "Fetch the api of weather forecast and can access weather details of any place accross Asia. I have used JS, HTML and Bootstap",
+      "link": "https://sonakshi1501.github.io/Weather-forecast/"
+   },
+   {
+      "name": "Github profile Search",
+      "desc": "Made Github profile Search by fetching the Api and used Bootstap, Js and HTML. We can access and Github account in the project",
+      "link": "https://sonakshi1501.github.io/GithubProfileSearch/"
+   },
+   {
+      "name": "Harry Potter Character View",
+      "desc": "Displayed all the images by aclling the api and also used JS, HTML and Bootstap",
+      "link": "https://sonakshi1501.github.io/HarryPotterapiCall/"
+   },
+   {
+      "name": "Github Api Call",
+      "desc": "fetching  the Api of github, I have craeted a project and used JS,Vue and HTML and also Bootstap",
+      "link": "https://sonakshi1501.github.io/Githubapicall/"
+   },
+   {
+      "name": "User Directory",
+      "desc": "I have created a directory where usre can enter his details like email id, name and image and it will be displayed in the table ",
+      "link": "https://sonakshi1501.github.io/UserDirectory/"
+   },
+   {
+      "name": "Devfest Speaker",
+      "desc": "By fetching the api of speaker,i have created the project. Used JS and HTMl",
+      "link": "https://sonakshi1501.github.io/DevfestSpeaker/"
+   },
+   {
+      "name": "Contact Directory",
+      "desc": "I made contact directory using HTMl,JS,Vue,CSS. User can directly add the data and it will added in a table",
+      "link": "https://sonakshi1501.github.io/contactDirec/"
+   },
+   {
+      "name": "Student Directory",
+      "desc": "I made directory of student using HTML, CSS and JS and gave user entry of the data in table",
+      "link": "https://sonakshi1501.github.io/studentdirec/"
+   }
+]
