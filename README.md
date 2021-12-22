@@ -1,4 +1,4 @@
-# bloggithub
+# sonakshi-portfolio
 
 ## Project setup
 ```

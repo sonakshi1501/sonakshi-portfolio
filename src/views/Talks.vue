@@ -3,7 +3,7 @@
     <div class="row my-5">
       <div class="col-md-12">
         <h3>My Talks</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia placeat eaque voluptates quos, dolorum temporibus consequuntur aliquam suscipit vero impedit culpa, quae ratione architecto blanditiis id eius quo? Itaque, quasi?</p>
+        <p>I got opportunity </p>
       </div>
     </div>
     <div class="row my-5">
