@@ -9,7 +9,7 @@
         "talkTitle":"UX & Product engineering like a Pro",
         "communityName":"GDG Jalandhar",
         "date": "Apr 18, 2020",
-        "techStack": ["A/B Testing", " UX Beyond Colors ", " Design", "Animations","Design thinking","Inclusive design patterns"]
+        "techStack": ["A/B Testing", " UX Beyond Colors ", " Design", "Animations","Design thinking"]
     },
     {
         "talkTitle":"IWD Jalandhar 2019",
@@ -21,37 +21,37 @@
         "talkTitle":"Build with Angular",
         "communityName":"GDG Jalandhar",
         "date": "Feb 23 - 24, 2019",
-        "techStack": ["JavaScript", "TypeScript Essentials", " Building Blocks of an Angular Application", "Building a single page app","Brainstorming Session and unlocking Industry Secrets","Basics of Client Server application architecture"]
+        "techStack": ["JavaScript", "TypeScript Essentials", "Angular Application", "Single page app","Client Server architecture"]
     },
     {
         "talkTitle":"GDG DevFest'18 Jalandhar",
         "communityName":"GDG Jalandhar",
         "date": "Oct 20 - 21, 2018",
-        "techStack": ["TensorFlow for JavaScript", " AMP", "PWA","Material Design","Build a reactive mobile app with Flutter"]
+        "techStack": ["TensorFlow", " AMP", "PWA","Material Design"," Flutter"]
     },
     {
         "talkTitle":"Next'18 Extended Jalandhar",
         "communityName":"GDG Jalandhar",
         "date": "Sep 15, 2018",
-        "techStack": ["GSuit", "Cloud Auto ML","Google App Engine","Google Cloud Certification","Machine Learning with GCP"]
+        "techStack": ["GSuit", "Cloud Auto ML","Google App Engine","Google Cloud Certification","ML with GCP"]
     },
     {
         "talkTitle":"Google IO Extended'18",
         "communityName":"GDG Jalandhar",
         "date": "Jun 9, 2018",
-        "techStack": ["Build Web app with Firebase", "Google Assistant"]
+        "techStack": ["Firebase", "Google Assistant"]
     },
     {
         "talkTitle":"Build Actions for your Community",
         "communityName":"GDG Jalandhar",
         "date": "Apr 15, 2018",
-        "techStack": ["Action On Google", "Making web faster with PWA","Daydreams and Google Maps","Getting started with Flutter"]
+        "techStack": ["Action On Google", "PWA","Daydreams","Flutter"]
     },
     {
         "talkTitle":"TensorFlow DevSummit Extended",
         "communityName":"GDG Jalandhar",
         "date": "Apr 7, 2018",
-        "techStack": ["ML with GCP", "ML with GCP"]
+        "techStack": ["ML with GCP"]
     },
     {
         "talkTitle":"IWD 18 | GDG - WTM Jalandhar",
@@ -69,7 +69,7 @@
         "talkTitle":"GDD India 2017 Extended Jalandhar",
         "communityName":"GDG Jalandhar",
         "date": "Feb 3, 2018",
-        "techStack": ["Intro to Android Things", " PWA", "AMP", "SW"]
+        "techStack": ["Android Things", " PWA", "AMP", "SW"]
     },
     {
         "talkTitle":"GDG-WTM Jalandhar Meetup November 2017",
